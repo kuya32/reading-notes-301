@@ -38,6 +38,7 @@
 
 ```
 
+- ***Line to seperate***
     - Each media query may include a media type followed by one or more expressions
       - Common media types include all, screen, print, tv and braille
     - Using the and logical operator within a media query allows an extra condition to be added, making sure that a browser or devices does both a, b, c, and so forth
