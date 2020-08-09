@@ -33,6 +33,7 @@
 @media all and (max-width: 1024px) {...}
 
 ```
+
     - Each media query may include a media type followed by one or more expressions
       - Common media types include all, screen, print, tv and braille
     - Using the and logical operator within a media query allows an extra condition to be added, making sure that a browser or devices does both a, b, c, and so forth
@@ -43,7 +44,7 @@
     - The resolution media feature specifies the resolution of the output device in pixel density, also known as dots per inch or DPI.
   - Flexible media
 
-![reading-notes-image](RWD Image.PNG)
+![Reading Notes Image](RWD Image.PNG)
 
 - Mobile first
   - Includes using styles targeted at smaller viewports as the default styles for a website, then use media queries to add styles as the viewport grows
