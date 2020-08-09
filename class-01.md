@@ -29,6 +29,10 @@
 <!-- Separate CSS File in HTML -->
 <link href="styles.css" rel="stylesheet" media="all and (max-width: 1024px)">
 
+```
+
+```
+
 /* @media Rule in CSS*/
 @media all and (max-width: 1024px) {...}
 
