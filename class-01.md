@@ -49,7 +49,7 @@
     - The resolution media feature specifies the resolution of the output device in pixel density, also known as dots per inch or DPI.
   - Flexible media
 
-![Reading Notes Image](RWD Image.PNG)
+![Reading Notes Image](img/RWD Image.PNG)
 
 - Mobile first
   - Includes using styles targeted at smaller viewports as the default styles for a website, then use media queries to add styles as the viewport grows
