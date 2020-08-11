@@ -3,14 +3,14 @@
 ## Shay Howe’s intro to RWD
 
 - Responsive Web Design (RWD)
-  - The practice of building a website suitable to work on every device and every screen size, no matter how large or small, mobile or desktop. 
-  - Focused around providing an intuitive and gratifying experience for everyone. 
+  - The practice of building a website suitable to work on every device and every screen size, no matter how large or small, mobile or desktop.
+  - Focused around providing an intuitive and gratifying experience for everyone.
 - Responsive vs Adaptive vs Mobile
   - **Responsive design websites** continually and fluidly change based on different factors, while **adaptive websites** are built to a group of present factors
-    - Combination of two is ideal, providing the perfect formula for functional websites. 
+    - Combination of two is ideal, providing the perfect formula for functional websites.
   - **Mobile** generally means to build a separate website commonly on a new domain solely for mobile users
     - Not the best sought out solution
-  - Responsive web design is the more sought out solution 
+  - Responsive web design is the more sought out solution
 - Responsive web design is broken into three main components
   - Flexible layouts
     - The practice of building the layout of a website with a flexible grid, capable of dynamically resizing to any width
@@ -42,7 +42,7 @@
     - Each media query may include a media type followed by one or more expressions
       - Common media types include all, screen, print, tv and braille
     - Using the and logical operator within a media query allows an extra condition to be added, making sure that a browser or devices does both a, b, c, and so forth
-    - One of the most common media features revolves around determining a **height or width** for a device or browser viewport. 
+    - One of the most common media features revolves around determining a **height or width** for a device or browser viewport.
     - The **orientation media feature** determines if a device is in the landscape or portrait orientation
     - The **aspect-ratio and device-aspect-ratio** features specify the width/height pixel ratio of the targeted rendering area or output device.
       - Indicated by two positive numbers, first identifies width and second is height
@@ -63,7 +63,7 @@
 ## All about Floats
 
 - Float is a CSS positioning property and has four valid values:
-  - Left and Right 
+  - Left and Right
     - Float elements those directions respectively
   - None
     - Ensures the element will not float
