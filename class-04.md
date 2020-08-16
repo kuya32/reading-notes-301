@@ -22,3 +22,5 @@
     - ```minmax(250px, 1fr)```, minmax function will create track widths that can be a minimum of 250px wide and a maximum of 1fr
     - ```object-fit: cover```, will stop the image from stretching, but it will cause cropping to happen
   - Column and row gap help space out content
+
+[Back to README](README.md)

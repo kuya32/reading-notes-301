@@ -70,3 +70,5 @@
 
 - List of jQuery element selectors p. 302-303
 - List of jQuery methods p. 304-305
+
+[Back to README](README.md)
