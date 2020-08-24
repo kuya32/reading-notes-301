@@ -12,7 +12,7 @@
 
 ## Understanding the JavaScript Call Stack
 
-- The call stack is primarily used for function invocation (call) 
+- The call stack is primarily used for function invocation (call)
   - Since the call stack is single, function(s) execution is done, one at a time, from top to bottom.
 - **Call stack** is a data structure that uses the Last In, First Out (LIFO) principle to temporarily store and manage function invocation (call).
 - **LIFO** - the last function that gets pushed into the stack is the first to pop out, when the function returns.
